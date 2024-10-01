@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wdGTIB+oUyLRUFL1Pan5wA8l6QG1tE698ziiN62Wu6A=",
+  "Source": "TicketWaveAccountApi",
+  "BasePath": "_content/TicketWaveAccountApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
